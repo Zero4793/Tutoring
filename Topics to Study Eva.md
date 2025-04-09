@@ -1,0 +1,19 @@
+- Know the [[SI Units & Prefixes]] (e.g. mm= x 10 -3 m, nm= x 10 -9 m)  
+- Be able to name and give examples of the different [[Energy|Forms of Energy]] (e.g. Kinetic, gravitational, sound, chemical, electrical……)
+- Know the law of [[Energy|Conservation of Energy]] 
+- Be able to describe [[Energy|how energy can be transformed]] and give example (Water falling down a cliff used to create electrical energy – gravitational ->; kinetic -> electrical energy) i.e. draw energy transformation diagrams
+- Perform calculations using the formulas for [[Energy#Kinetic|KE]] and [[Energy#Gravitational Potenial|GPE]] and applying the conservation of mechanical energy
+- Compare and define [[Heat and Temperature]]
+- Perform calculations using [[Q = mcΔT]] using appropriate units
+- Draw and analyse [[Heat and Temperature#Heat Curve|Heating Curves]] to read off boiling points and melting points
+- Perform calculations using the [[latent heat of fusion and vaporisation]]
+- Understand and describe [[Heat and Temperature#Heat Transfer|Heat Transfer]] processes (Conduction, convection and radiation) 
+- Calculate thermal conductivity using ???
+- For [[Sound waves]] know how to read the graphs and be able to determine Amplitude (volume), Wavelength and frequency (Pitch or tone, high frequency, high the pitch)
+- Know how to use the [[wave and light formulae]] – to calculate n, f, c, v, T, l, A (know the variables, and their SI units)  
+- Know the different [[types of waves]] – transverse and longitudinal (compression)
+- Know the difference between mechanical (e.g. sound) and [[EMR]] 
+- Know the [[EMR]] spectrum in terms shorter wavelength equal more energy.
+- Understand and know how to use [[Snell’s law]] and apply it to find refractive indexes and critical angles
+- Draw ray diagrams of wavefronts, reflection and refraction
+- Know and understand light intensity and perform calculations using the [[inverse square law]]
