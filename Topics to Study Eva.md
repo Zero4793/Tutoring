@@ -9,7 +9,7 @@
 - Perform calculations using the [[latent heat of fusion and vaporisation]]
 - Understand and describe [[Heat and Temperature#Heat Transfer|Heat Transfer]] processes (Conduction, convection and radiation) 
 - Calculate thermal conductivity using ???
-- For [[Sound waves]] know how to read the graphs and be able to determine Amplitude (volume), Wavelength and frequency (Pitch or tone, high frequency, high the pitch)
+- For [[Waves]] know how to read the graphs and be able to determine Amplitude (volume), Wavelength and frequency (Pitch or tone, high frequency, high the pitch)
 - Know how to use the [[wave and light formulae]] – to calculate n, f, c, v, T, l, A (know the variables, and their SI units)  
 - Know the different [[types of waves]] – transverse and longitudinal (compression)
 - Know the difference between mechanical (e.g. sound) and [[EMR]] 
